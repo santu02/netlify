@@ -1,0 +1,10 @@
+{
+    "Configurations": [
+        {
+            "Board": "NodeMCU_32S",
+            "Device": "3C:71:BF:AA:6D:E0",
+            "Version": "1.0.1",
+            "URL": "https://github.com/santu02/esp32ota/blob/main/esp32s_test.ino.bin"
+        }
+    ]
+}
